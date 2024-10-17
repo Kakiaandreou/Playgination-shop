@@ -1,0 +1,507 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kids Toys E-Shop</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <header class="bg-blue-500 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-white text-2xl font-bold">Kids Toys</h1>
+      <nav>
+        <a href="#" class="text-white px-3">Home</a>
+        <a href="#shop" class="text-white px-3">Shop</a>
+        <a href="#contact" class="text-white px-3">Contact</a>
+        <a href="#cart" class="text-white px-3">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="bg-yellow-400 py-12">
+    <div class="container mx-auto text-center">
+      <h2 class="text-4xl font-bold mb-4">Welcome to the World of Toys!</h2>
+      <p class="text-lg mb-6">Explore the best toys for your little ones</p>
+      <a href="#shop" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-700">Shop Now</a>
+    </div>
+  </section>
+
+  <!-- Featured Products Section -->
+  <section id="shop" class="py-12">
+    <div class="container mx-auto">
+      <h3 class="text-3xl font-bold text-center mb-8">Featured Toys</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- Toy Item -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?toy" alt="Toy 1" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Toy Car</h4>
+          <p class="text-gray-600 mb-4">$15.99</p>
+          <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</a>
+        </div>
+        <!-- More products -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?teddy" alt="Toy 2" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Teddy Bear</h4>
+          <p class="text-gray-600 mb-4">$12.99</p>
+          <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</a>
+        </div>
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/
+
+
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Playgination - Kids Toys E-Shop</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <header class="bg-blue-500 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-white text-2xl font-bold">Playgination</h1>
+      <nav>
+        <a href="#" class="text-white px-3">Home</a>
+        <a href="#shop" class="text-white px-3">Shop</a>
+        <a href="#contact" class="text-white px-3">Contact</a>
+        <a href="#cart" class="text-white px-3">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="bg-yellow-400 py-12">
+    <div class="container mx-auto text-center">
+      <h2 class="text-4xl font-bold mb-4">Welcome to Playgination!</h2>
+      <p class="text-lg mb-6">Explore the best toys for your little ones, crafted with creativity and fun in mind.</p>
+      <a href="#shop" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-700">Shop Now</a>
+    </div>
+  </section>
+
+  <!-- Featured Products Section -->
+  <section id="shop" class="py-12">
+    <div class="container mx-auto">
+      <h3 class="text-3xl font-bold text-center mb-8">Featured Toys</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- Toy Item -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?toy" alt="Toy Car" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Toy Car</h4>
+          <p class="text-gray-600 mb-4">$15.99</p>
+          <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</a>
+        </div>
+        <!-- More products -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?teddy" alt="Teddy Bear" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Teddy Bear</h4>
+          <p class="text-gray-600 mb-4">$12.99</p>
+          <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</a>
+        </div>
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?lego" alt="Lego Set" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Lego Set</h4>
+          <p class="text-gray-600 mb-4">$29.99</p>
+          <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-500 py-6">
+    <div class="container mx-auto text-center text-white">
+      <p>&copy; 2024 Playgination. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
+
+
+<!-- shop.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop - Playgination</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <header class="bg-blue-500 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-white text-2xl font-bold">Playgination</h1>
+      <nav>
+        <a href="index.html" class="text-white px-3">Home</a>
+        <a href="shop.html" class="text-white px-3">Shop</a>
+        <a href="contact.html" class="text-white px-3">Contact</a>
+        <a href="cart.html" class="text-white px-3">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Shop Section -->
+  <section id="shop" class="py-12">
+    <div class="container mx-auto">
+      <h3 class="text-3xl font-bold text-center mb-8">Our Toys Collection</h3>
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <!-- Toy Item 1 -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?toy-car" alt="Toy Car" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Toy Car</h4>
+          <p class="text-gray-600 mb-4">$15.99</p>
+          <button onclick="addToCart('Toy Car', 15.99)" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</button>
+        </div>
+        <!-- Toy Item 2 -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?teddy" alt="Teddy Bear" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Teddy Bear</h4>
+          <p class="text-gray-600 mb-4">$12.99</p>
+          <button onclick="addToCart('Teddy Bear', 12.99)" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</button>
+        </div>
+        <!-- Toy Item 3 -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?lego" alt="Lego Set" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Lego Set</h4>
+          <p class="text-gray-600 mb-4">$29.99</p>
+          <button onclick="addToCart('Lego Set', 29.99)" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</button>
+        </div>
+        <!-- Toy Item 4 -->
+        <div class="bg-white p-6 shadow-lg rounded-lg">
+          <img src="https://source.unsplash.com/300x300/?doll" alt="Doll" class="mb-4 rounded">
+          <h4 class="text-xl font-bold mb-2">Doll</h4>
+          <p class="text-gray-600 mb-4">$19.99</p>
+          <button onclick="addToCart('Doll', 19.99)" class="bg-blue-500 text-white px-4 py-2 rounded-full">Add to Cart</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-500 py-6">
+    <div class="container mx-auto text-center text-white">
+      <p>&copy; 2024 Playgination. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Cart logic
+    let cart = [];
+
+    function addToCart(product, price) {
+      cart.push({ product, price });
+      alert(product + " added to cart!");
+      console.log(cart);
+    }
+  </script>
+
+</body>
+</html>
+
+
+<!-- cart.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cart - Playgination</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <header class="bg-blue-500 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-white text-2xl font-bold">Playgination</h1>
+      <nav>
+        <a href="index.html" class="text-white px-3">Home</a>
+        <a href="shop.html" class="text-white px-3">Shop</a>
+        <a href="contact.html" class="text-white px-3">Contact</a>
+        <a href="cart.html" class="text-white px-3">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Cart Section -->
+  <section id="cart" class="py-12">
+    <div class="container mx-auto">
+      <h3 class="text-3xl font-bold text-center mb-8">Your Cart</h3>
+      <div class="bg-white p-6 shadow-lg rounded-lg">
+        <ul id="cartItems" class="mb-4">
+          <!-- Cart items will be dynamically inserted here -->
+        </ul>
+        <p id="totalPrice" class="text-xl font-bold mb-4">Total: $0.00</p>
+        <button class="bg-green-500 text-white px-6 py-2 rounded-full">Proceed to Checkout</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-500 py-6">
+    <div class="container mx-auto text-center text-white">
+      <p>&copy; 2024 Playgination. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    let cart = JSON.parse(localStorage.getItem('cart')) || [];
+    const cartItems = document.getElementById('cartItems');
+    const totalPriceElem = document.getElementById('totalPrice');
+
+    function displayCart() {
+      cartItems.innerHTML = '';
+      let total = 0;
+      cart.forEach((item, index) => {
+        total += item.price;
+        const li = document.createElement('li');
+        li.textContent = `${item.product} - $${item.price.toFixed(2)}`;
+        const removeBtn = document.createElement('button');
+        removeBtn.textContent = 'Remove';
+        removeBtn.onclick = () => removeFromCart(index);
+        li.appendChild(removeBtn);
+        cartItems.appendChild(li);
+      });
+      totalPriceElem.textContent = `Total: $${total.toFixed(2)}`;
+    }
+
+    function removeFromCart(index) {
+      cart.splice(index, 1);
+      localStorage.setItem('cart', JSON.stringify(cart));
+      displayCart();
+    }
+
+    displayCart();
+  </script>
+
+</body>
+</html>
+
+
+<!-- checkout.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout - Playgination</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <header class="bg-blue-500 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-white text-2xl font-bold">Playgination</h1>
+      <nav>
+        <a href="index.html" class="text-white px-3">Home</a>
+        <a href="shop.html" class="text-white px-3">Shop</a>
+        <a href="contact.html" class="text-white px-3">Contact</a>
+        <a href="cart.html" class="text-white px-3">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Checkout Section -->
+  <section id="checkout" class="py-12">
+    <div class="container mx-auto">
+      <h3 class="text-3xl font-bold text-center mb-8">Checkout</h3>
+      <div class="bg-white p-6 shadow-lg rounded-lg">
+        <h4 class="text-2xl font-bold mb-4">Order Summary</h4>
+        <ul id="checkoutItems" class="mb-4">
+          <!-- Cart items will be displayed here -->
+        </ul>
+        <p id="checkoutTotal" class="text-xl font-bold mb-6">Total: $0.00</p>
+
+        <h4 class="text-2xl font-bold mb-4">Customer Information</h4>
+        <form id="checkoutForm">
+          <div class="mb-4">
+            <label for="name" class="block text-lg mb-2">Full Name</label>
+            <input type="text" id="name" class="w-full border p-2 rounded" required>
+          </div>
+          <div class="mb-4">
+            <label for="email" class="block text-lg mb-2">Email</label>
+            <input type="email" id="email" class="w-full border p-2 rounded" required>
+          </div>
+          <div class="mb-4">
+            <label for="address" class="block text-lg mb-2">Shipping Address</label>
+            <input type="text" id="address" class="w-full border p-2 rounded" required>
+          </div>
+          <button type="submit" class="bg-green-500 text-white px-6 py-2 rounded-full">Place Order</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-500 py-6">
+    <div class="container mx-auto text-center text-white">
+      <p>&copy; 2024 Playgination. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    let cart = JSON.parse(localStorage.getItem('cart')) || [];
+    const checkoutItems = document.getElementById('checkoutItems');
+    const checkoutTotal = document.getElementById('checkoutTotal');
+
+    function displayCheckoutCart() {
+      checkoutItems.innerHTML = '';
+      let total = 0;
+      cart.forEach((item) => {
+        total += item.price;
+        const li = document.createElement('li');
+        li.textContent = `${item.product} - $${item.price.toFixed(2)}`;
+        checkoutItems.appendChild(li);
+      });
+      checkoutTotal.textContent = `Total: $${total.toFixed(2)}`;
+    }
+
+    // Handle form submission
+    const checkoutForm = document.getElementById('checkoutForm');
+    checkoutForm.addEventListener('submit', function (e) {
+      e.preventDefault();
+
+      // Collect customer info (currently just displays a success message)
+      const customerName = document.getElementById('name').value;
+      const customerEmail = document.getElementById('email').value;
+      const customerAddress = document.getElementById('address').value;
+
+      alert(`Thank you for your order, ${customerName}! We will send a confirmation to ${customerEmail}.`);
+
+      // Clear the cart
+      cart = [];
+      localStorage.setItem('cart', JSON.stringify(cart));
+      displayCheckoutCart();
+    });
+
+    displayCheckoutCart();
+  </script>
+
+</body>
+</html>
+
+
+<!-- checkout.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout - Playgination</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <!-- PayPal SDK -->
+  <script src="https://www.paypal.com/sdk/js?client-id=YOUR_PAYPAL_CLIENT_ID"></script> 
+</head>
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <header class="bg-blue-500 p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-white text-2xl font-bold">Playgination</h1>
+      <nav>
+        <a href="index.html" class="text-white px-3">Home</a>
+        <a href="shop.html" class="text-white px-3">Shop</a>
+        <a href="contact.html" class="text-white px-3">Contact</a>
+        <a href="cart.html" class="text-white px-3">Cart</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Checkout Section -->
+  <section id="checkout" class="py-12">
+    <div class="container mx-auto">
+      <h3 class="text-3xl font-bold text-center mb-8">Checkout</h3>
+      <div class="bg-white p-6 shadow-lg rounded-lg">
+        <h4 class="text-2xl font-bold mb-4">Order Summary</h4>
+        <ul id="checkoutItems" class="mb-4">
+          <!-- Cart items will be displayed here -->
+        </ul>
+        <p id="checkoutTotal" class="text-xl font-bold mb-6">Total: $0.00</p>
+
+        <h4 class="text-2xl font-bold mb-4">Customer Information</h4>
+        <form id="checkoutForm">
+          <div class="mb-4">
+            <label for="name" class="block text-lg mb-2">Full Name</label>
+            <input type="text" id="name" class="w-full border p-2 rounded" required>
+          </div>
+          <div class="mb-4">
+            <label for="email" class="block text-lg mb-2">Email</label>
+            <input type="email" id="email" class="w-full border p-2 rounded" required>
+          </div>
+          <div class="mb-4">
+            <label for="address" class="block text-lg mb-2">Shipping Address</label>
+            <input type="text" id="address" class="w-full border p-2 rounded" required>
+          </div>
+        </form>
+
+        <!-- PayPal Button -->
+        <div id="paypal-button-container"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-500 py-6">
+    <div class="container mx-auto text-center text-white">
+      <p>&copy; 2024 Playgination. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    let cart = JSON.parse(localStorage.getItem('cart')) || [];
+    const checkoutItems = document.getElementById('checkoutItems');
+    const checkoutTotal = document.getElementById('checkoutTotal');
+    let total = 0;
+
+    function displayCheckoutCart() {
+      checkoutItems.innerHTML = '';
+      cart.forEach((item) => {
+        total += item.price;
+        const li = document.createElement('li');
+        li.textContent = `${item.product} - $${item.price.toFixed(2)}`;
+        checkoutItems.appendChild(li);
+      });
+      checkoutTotal.textContent = `Total: $${total.toFixed(2)}`;
+    }
+
+    // Display the PayPal button and handle payment
+    paypal.Buttons({
+      createOrder: function (data, actions) {
+        return actions.order.create({
+          purchase_units: [{
+            amount: {
+              value: total.toFixed(2)
+            }
+          }]
+        });
+      },
+      onApprove: function (data, actions) {
+        return actions.order.capture().then(function (details) {
+          alert('Transaction completed by ' + details.payer.name.given_name);
+          // Clear cart after successful payment
+          cart = [];
+          localStorage.setItem('cart', JSON.stringify(cart));
+          displayCheckoutCart();
+        });
+      }
+    }).render('#paypal-button-container');
+
+    displayCheckoutCart();
+  </script>
+
+</body>
+</html>
+
+
